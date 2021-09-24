@@ -7,3 +7,5 @@ CreateObservables.java
 ObservableWithObserver.java
  ObservableWithObserver
  ObservableWithObserver$1
+HotAndColdObservables.java
+ HotAndColdObservables
